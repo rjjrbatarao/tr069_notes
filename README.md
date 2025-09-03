@@ -23,3 +23,14 @@ Download<br/>
 Ping<br/>
 AddPortMapping<br/>
 DeletePortMapping<br/>
+
+
+## ACS Server
+https://github.com/genieacs/genieacs
+
+## Tools
+https://github.com/phosphore/CWMPwn<br/>
+https://github.com/genieacs/genieacs-sim
+
+## References
+https://docs.oktopus.app.br/cwmp-tr-069/architecture
